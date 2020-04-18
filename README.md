@@ -30,7 +30,7 @@ Completely developed in Python (for faster prototyping).
 
 ## Inspiration
 
-This project is the brainchild of my friend Mayank Joshi. This was his proposed college project that never made it to the development phase for reasons unknown.
+This project is an idea that came from my friend Mayank Joshi. This was his proposed college project that never made it to the development phase for reasons unknown.
 Also, think of the scenarios in which this utility might be very helpful (eg. copy multiple lines from different paragraphs from several web pages at once. Will definitely in plagiarizing your next assignment) **Demo attached**.
 
 ## Features
