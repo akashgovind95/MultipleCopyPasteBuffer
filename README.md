@@ -22,7 +22,7 @@ Index
 <!--te-->
 
 ## What is it?
-I have never come across any usable version of a multiple copy & paste buffers implementation.      
+An easy to use version of a multiple copy & paste buffers implementation.      
 Hence, this attempt is being made. 
 Copy multiple. Paste multiple!!
 
