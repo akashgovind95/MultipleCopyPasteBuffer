@@ -1,0 +1,4 @@
+pynput==1.4.2
+pyperclip==1.8.0
+pywin32==227
+six==1.14.0
