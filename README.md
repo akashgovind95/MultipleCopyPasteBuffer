@@ -6,7 +6,7 @@ He is [**Larry Tesler**](https://en.wikipedia.org/wiki/Larry_Tesler). If you don
 # Multiple Copy & Paste Buffers
 
 A Python implementation of multiple copy and paste buffers on Windows.   
-Allows you to have copy multiple items at once and paste them as per need.
+Allows you to copy multiple items at once and paste them as per need.
 
 Index
 -----
@@ -25,6 +25,14 @@ Index
 An easy to use version of a multiple copy & paste buffers implementation.      
 Hence, this attempt is being made. 
 Copy multiple. Paste multiple!!
+
+* In Windows, you have 1 clipboard.    
+      - You press **"ctrl + c"** to copy something onto it.   
+      - You press **"ctrl + v"** to paste whatever is on the clipboard. 
+      
+* As per my code, you technically have 9 clipboards.    
+      - You press **"ctrl + c + [1-9]"** to copy something onto them.    
+      - You press **"ctrl + [1-9]"** to paste whatever is on the clipboards.    
 
 Completely developed in Python (for faster prototyping).
 
